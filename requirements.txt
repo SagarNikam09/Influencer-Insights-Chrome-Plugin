@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+notebook
+matplotlib
+seaborn
+plotly
+nltk
+wordcloud
+missingno
+mlflow
+dagshub
+xgboost
+lightgbm
